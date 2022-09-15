@@ -11,7 +11,7 @@ Dependancies:
 - pandas: 1.3.0
 - numpy: 1.20.3
 
-# To Predict
+## To Predict
 
 In order to predict peptide stability, the structure of the peptide, represented in *isomeric SMILES* notation, should be prepared first.
 
