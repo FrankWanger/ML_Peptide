@@ -1,6 +1,6 @@
 # Using Pretrained Machine Learning Models to Predict Peptide Stability Profile in Simulated Gastric/Intestinal Fluids
 
-Publication: *DOI:*
+Publication: *DOI:* (Awaiting)
 
 Environment: Python 3.7.7
 
