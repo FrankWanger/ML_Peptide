@@ -2,6 +2,8 @@
 
 Publication: *DOI:* [article link](https://doi.org/10.1016/j.ijpharm.2023.122643)
 
+Data: [FigShare](https://doi.org/10.6084/m9.figshare.25941580)
+
 Environment: Python 3.7.7
 
 Dependancies:
